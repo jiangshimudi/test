@@ -2,6 +2,6 @@ package test1;
 
 public class test {
 	public static void main(String[] args) {
-		int i=111;
+		String i="abc";
 	}
 }
